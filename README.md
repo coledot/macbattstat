@@ -1,2 +1,4 @@
 # macbattstat
-Shell script to report the charge status on Mac OS X
+Shell script to report the battery charge status on Mac OS X
+
+Simple & minimal; I originally wrote this to add to the tmux status line.
